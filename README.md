@@ -21,7 +21,7 @@ i am also an open-source & blockchain enthusiast and maintainer. i learned a lot
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any qontact? do reach, [email](mailto:navedahmad082@gmail.com) :)
+- 💼 any contact? do reach, [email](mailto:navedahmad082@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**
