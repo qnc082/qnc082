@@ -4,13 +4,13 @@
   <img align="left" alt="Naved's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="#">
-  <img align="left" alt="Naved's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Naved's Discord" width="22px" src="https://github.com/discord.png?size=40" />
 </a>
 <a href="https://twitter.com/qnc_082">
-  <img align="left" alt="Naved Ahmad | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Naved Ahmad | Twitter" width="22px" src="https://github.com/twitter.png?size=40" />
 </a>
 <a href="https://www.linkedin.com/in/naved082/">
-  <img align="left" alt="Naved's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Naved's LinkedIN" width="22px" src="https://github.com/linkedin.png?size=40" />
 </a>
 
 <br />
